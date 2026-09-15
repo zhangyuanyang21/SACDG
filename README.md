@@ -18,17 +18,6 @@ The complete code, configuration files, and reproduction instructions will be re
 
 **This repository will be continuously updated. Please stay tuned.**
 
-## 📄 Paper
-
-**Structure-Aware Conditional Diffusion Generation for Incomplete Multi-View Clustering**
-
-*Yuanyang Zhang, Yijie Lin, Xinhang Wan, Jie Xu, Li Yao, Weiqing Yan, and Chang Tang*
-
-**IEEE Transactions on Knowledge and Data Engineering**,  
-vol. 38, no. 5, pp. 3168–3181, 2026.
-
-**DOI:** 10.1109/TKDE.2026.3673320
-
 ## 🚀 Coming Soon
 
 The reconstructed repository will include:
